@@ -6,6 +6,8 @@
 #define SPACE " "
 #define NL    "\n"
 
+// This is the first line in the code
+
 int main()
 {
     int i,j;
